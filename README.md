@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **3%**  (6/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **24003**
-- 📤 GitHubga yuborilgan topshiriqlar: **26**
+- ⭐ Jami ball: **24043**
+- 📤 GitHubga yuborilgan topshiriqlar: **27**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Stringlar — kirish: matn, qo'shtirnoqlar, len()**
+**MODUL 1 — Asoslar** → **Sonlar: int va float — butun va kasr sonlar**
 
-➡️ Keyingi mavzu: *Bool va mantiq — True/False, mantiqiy ifodalar*
+➡️ Keyingi mavzu: *O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -21,9 +21,9 @@
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
 - ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
-- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ✅ Sonlar: int va float — butun va kasr sonlar
-- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()  ← yetgan joyingiz
+- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar  ← yetgan joyingiz
+- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
 - ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
 - ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `████░░░░░░` 40% | 6/15 |
+| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-18 05:09</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-23 04:51</sub>
