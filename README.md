@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **4%**  (7/179 mavzu)
 
-- ⭐ Jami ball: **24078**
-- 📤 GitHubga yuborilgan topshiriqlar: **28**
+- ⭐ Jami ball: **26384**
+- 📤 GitHubga yuborilgan topshiriqlar: **29**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Sonlar: int va float — butun va kasr sonlar**
+**MODUL 1 — Asoslar** → **Bool va mantiq — True/False, mantiqiy ifodalar**
 
-➡️ Keyingi mavzu: *O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)*
+➡️ Keyingi mavzu: *input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -21,10 +21,10 @@
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
 - ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ✅ Sonlar: int va float — butun va kasr sonlar  ← yetgan joyingiz
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar  ← yetgan joyingiz
 - ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
 - ⬜ Mantiqiy operatorlar — and, or, not
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
+| 1 | 🔸 Asoslar | `█████░░░░░` 47% | 7/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-23 05:04</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-05 04:38</sub>
