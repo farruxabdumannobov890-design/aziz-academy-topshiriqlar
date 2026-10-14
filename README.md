@@ -6,33 +6,33 @@
 
 `█░░░░░░░░░░░░░░░░░░░` **3%**  (6/179 mavzu)
 
-- ⭐ Jami ball: **26514**
-- 📤 GitHubga yuborilgan topshiriqlar: **31**
+- ⭐ Jami ball: **28166**
+- 📤 GitHubga yuborilgan topshiriqlar: **32**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Bool va mantiq — True/False, mantiqiy ifodalar**
+**MODUL 1 — Asoslar** → **Bool va mantiq - True/False, mantiqiy ifodalar**
 
-➡️ Keyingi mavzu: *Stringlar — kirish: matn, qo'shtirnoqlar, len()*
+➡️ Keyingi mavzu: *Stringlar - kirish: matn, qo'shtirnoqlar, len()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ✅ Birinchi dastur ⭐ — print() va kommentlar
-- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ✅ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ✅ Bool va mantiq — True/False, mantiqiy ifodalar  ← yetgan joyingiz
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
-- ⬜ Solishtirish operatorlari — == != > < >= <=
-- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
-- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
-- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
+- ✅ Dasturlashga kirish - Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit - Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ - print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ - yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float - butun va kasr sonlar
+- ⬜ Stringlar - kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq - True/False, mantiqiy ifodalar  ← yetgan joyingiz
+- ⬜ input() bilan ishlash ⭐ - foydalanuvchidan ma'lumot olish
+- ⬜ Arifmetik operatorlar - + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar - and, or, not
+- ⬜ Solishtirish operatorlari - == != > < >= <=
+- ⬜ Type casting ⭐ - type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator - ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 - bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 - syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-09 04:46</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-14 04:34</sub>
