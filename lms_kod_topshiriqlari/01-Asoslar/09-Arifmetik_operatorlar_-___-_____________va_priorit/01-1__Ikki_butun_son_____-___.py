@@ -1,0 +1,6 @@
+a, b = input().split()
+a = int(a)
+b = int(b)
+print("Add:",a+b)
+print("Sub:",a-b)
+print("Mul:",a*b)
